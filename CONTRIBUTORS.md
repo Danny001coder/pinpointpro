@@ -161,3 +161,9 @@
 - **Date:** 2026-09-21
 - **One thing I learned:** I have learnt how to contribute to an open source project on github.
 
+- ## Robert Daniel
+- **Github:** @Danny001coder
+- **Contribution:** Cloud & Devops Foundation - phase 2 project
+- **Date:** 2026-10-20
+- **One thing I learned:** I have been able to learn and understand what open source project is all about and how to contribute to it effectively on git hub.I have also learnt how to clone a git repository and how to fork a repository. This project has been an eye opener for me and it has challenged me to be more innovative and have a better understanding on how to collaborate and contribute to the projects of other developers.
+
